@@ -9,3 +9,6 @@ Also I leared about function(already knew) and create some by watching some ange
 Created a dictionary where I added some key and value and they are user generated
 Create a program Where I can add multiple values in a single key 
 Created a solvingbug jupyter notebook where I solved some bugs on some given problems
+
+## Day 4
+Learned what is lambda function in python only
