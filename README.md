@@ -12,3 +12,4 @@ Created a solvingbug jupyter notebook where I solved some bugs on some given pro
 
 ## Day 4
 Learned what is lambda function in python only
+Learned how to handle files in python or how to read and write files
